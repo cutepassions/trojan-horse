@@ -14,6 +14,7 @@
 - JAVA 업데이트를 가장한 바이러스를 분석
 - 실제 공격이 이루어지는 python과 공격자가 공격을 실행시키도록 도와주는 JAVA로 구성
 ### 사용 언어 및 개발환경
+- Python 3.6
 ## 프로젝트 결과
 ## 분석 결과
 https://github.com/cutepassions/trojan-horse/blob/7466dccbe50a05c3d26a506483241d37eb11c977/victim/placeholder/keylog.py#L6-L37
